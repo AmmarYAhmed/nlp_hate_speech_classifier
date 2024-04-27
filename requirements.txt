@@ -1,0 +1,14 @@
+transformers 
+tensorflow
+torch
+tf-keras
+matplotlib
+torch
+ipywidgets
+wandb
+accelerate
+joblib
+pandas
+datasets
+nltk
+scikit-learn
